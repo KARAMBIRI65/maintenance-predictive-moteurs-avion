@@ -1,0 +1,4 @@
+règle,pannes détectées,pannes ratées,fausses alertes,rappel,précision,coût moyen
+Tout inspecter,25/25,0,75,1.0,0.25,0.75
+A. RUL prévue <= 42,25/25,0,5,1.0,0.8333333333333334,0.05
+B. probabilité >= 0.05,25/25,0,3,1.0,0.8928571428571429,0.03
